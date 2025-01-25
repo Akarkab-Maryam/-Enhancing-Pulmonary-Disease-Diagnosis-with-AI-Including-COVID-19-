@@ -64,4 +64,12 @@ L'image ci-dessus illustre une comparaison entre :
 Ce prétraitement est une étape clé pour réduire les informations inutiles et améliorer l'entrée des images dans le modèle d'IA.
 
 
+![image](https://github.com/user-attachments/assets/66d43709-7853-43a9-8f64-00ad54a96f61)
+![image](https://github.com/user-attachments/assets/a1574617-6bc1-47cc-811c-82870c452277)
+![image](https://github.com/user-attachments/assets/16c73389-957e-47f8-86db-c45b15d53154)
+![image](https://github.com/user-attachments/assets/b12c4aef-3d3e-4f2d-b6e7-5b34f0a835ae)
+![image](https://github.com/user-attachments/assets/54b7dd31-b870-4277-addd-8ceb62858f1d)
+![image](https://github.com/user-attachments/assets/7c060762-d97a-4ff6-8a5f-5e7d794a065d)
+
+
 
