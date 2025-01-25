@@ -45,9 +45,23 @@ Développer un modèle d'IA capable d'analyser les radiographies thoraciques afi
 1. **Prétraitement des données** : Optimisation des images radiographiques.
 2. **Développement du modèle CNN** : Architecture personnalisée pour un diagnostic précis.
 3. **Entraînement et validation** : Analyse des performances sur la base de données COVID-QU.
-4. **Documentation des résultats** : Visualisation des métriques et des performances du modèle.
+4. **Documentation des résultats** : Visualisation des métriques et des performances du modèle
 
 ---
 
 ## Pourquoi ce projet est important
 En exploitant l'intelligence artificielle, ce projet vise à fournir un outil diagnostique innovant et accessible, particulièrement utile en période de crise sanitaire comme celle de la COVID-19.
+
+
+![image](https://github.com/user-attachments/assets/e50b4222-8ce6-42a3-abff-cb583a270beb)
+
+## Résultats du prétraitement des images médicales
+
+L'image ci-dessus illustre une comparaison entre :  
+1. **L'image originale** (à gauche) : Radiographie thoracique brute.  
+2. **Le résultat de l'algorithme de détection de contours Canny** (à droite) : Permet d'extraire les contours significatifs pour identifier des structures pulmonaires et anomalies potentielles.  
+
+Ce prétraitement est une étape clé pour réduire les informations inutiles et améliorer l'entrée des images dans le modèle d'IA.
+
+
+
