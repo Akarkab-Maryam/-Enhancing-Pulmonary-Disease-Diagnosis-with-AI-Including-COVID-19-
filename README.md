@@ -1,30 +1,53 @@
-Enhancing Pulmonary Disease Diagnosis with AI (Including COVID-19)
-Brief description:
+# Amélioration du diagnostic des maladies pulmonaires grâce à l'IA (y compris la COVID-19)
 
-A project combining artificial intelligence and medical imaging to diagnose lung diseases, including COVID-19, using convolutional neural networks (CNN)
+## Brève description
+Ce projet combine l'intelligence artificielle et l'imagerie médicale pour diagnostiquer les maladies pulmonaires, notamment la COVID-19, en utilisant des réseaux de neurones convolutifs (CNN).
 
-Objective:
-Develop an AI model to analyze chest X-rays and improve diagnostic accuracy
+---
 
-Techniques:
+## Objectif
+Développer un modèle d'IA capable d'analyser les radiographies thoraciques afin d'améliorer la précision et la rapidité des diagnostics.
 
-Image preprocessing (histogram equalization).
-Development and training of a CNN based on the COVID-QU database (15,000 images).
-Model evaluation (confusion matrix, ROC curve)
+---
 
-Results:
+## Techniques utilisées
+- **Prétraitement d'images** : Égalisation d'histogrammes pour améliorer la qualité des images.
+- **Modélisation et entraînement** : 
+  - Développement d'un CNN formé sur la base de données COVID-QU (15 000 images).
+  - Optimisation des paramètres et suivi des performances.
+- **Évaluation des performances** : 
+  - Utilisation de métriques avancées telles que la matrice de confusion et la courbe ROC.
 
-High-performing model after 20 training epochs.
-Potential application for faster and more accurate diagnoses
+---
 
-SKILLS
-Machine learning and deep learning.
-Use of medical databases (COVID-QU).
-CNN model design.
-Advanced metrics for model evaluation
+## Résultats obtenus
+- Modèle **très performant** après 20 époques d'entraînement.
+- Potentiel d'application pour des diagnostics **plus rapides et plus précis** dans un contexte clinique.
 
-Tools and technologies used:
-Python, TensorFlow/Keras, NumPy, Matplotlib.
-Medical image processing (preprocessing).
-Brief description: A project combining artificial intelligence and medical imaging to diagnose lung diseases, including COVID-19, using convolutional neural networks (CNN) Objective: Develop an AI model to analyze chest X-rays and improve diagnostic accuracy Techniques: Image preprocessing (histogram equalization). Development and training of a CNN based on the COVID-QU database (15,000 images). Model evaluation (confusion matrix, ROC curve) Results: High-performing model after 20 training epochs. Potential application for faster and more accurate diagnoses SKILLS Machine learning and deep learning. Use of medical databases (COVID-QU). CNN model design. Advanced metrics for model evaluation Tools and technologies used: Python, TensorFlow/Keras, NumPy, Matplotlib. Medical image processing (preprocessing).
-Compétences : Python (langage de programmation) · tinserflow · CNN
+---
+
+## Compétences développées
+- Apprentissage automatique et apprentissage profond.
+- Utilisation de bases de données médicales (COVID-QU).
+- Conception et implémentation de modèles CNN.
+- Analyse et interprétation des métriques d'évaluation des modèles.
+
+---
+
+## Outils et technologies
+- **Langages de programmation** : Python.
+- **Bibliothèques et frameworks** : TensorFlow/Keras, NumPy, Matplotlib.
+- **Techniques** : Prétraitement d'images médicales.
+
+---
+
+## Structure du projet
+1. **Prétraitement des données** : Optimisation des images radiographiques.
+2. **Développement du modèle CNN** : Architecture personnalisée pour un diagnostic précis.
+3. **Entraînement et validation** : Analyse des performances sur la base de données COVID-QU.
+4. **Documentation des résultats** : Visualisation des métriques et des performances du modèle.
+
+---
+
+## Pourquoi ce projet est important
+En exploitant l'intelligence artificielle, ce projet vise à fournir un outil diagnostique innovant et accessible, particulièrement utile en période de crise sanitaire comme celle de la COVID-19.
